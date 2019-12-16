@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <psf version="2.0">
 <provider id="org.eclipse.team.svn.core.svnnature">
-<project reference="1.0.1,https://github.com/dandar3/android-google-datatransport-transport-api/tags/2.0.0,google-datatransport-transport-api,80d417573020001a13bc9cc2f4b31a6b;https://github.com/dandar3/android-google-datatransport-transport-api;https://github.com/dandar3/android-google-datatransport-transport-api;branches;tags;trunk;true;d783bd64-9ef5-c274-397a-ce57b7db7bff;https://github.com/dandar3/android-google-datatransport-transport-api;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-google-datatransport-transport-api/tags/2.1.0,google-datatransport-transport-api,80d417573020001a13bc9cc2f4b31a6b;https://github.com/dandar3/android-google-datatransport-transport-api;https://github.com/dandar3/android-google-datatransport-transport-api;branches;tags;trunk;true;d783bd64-9ef5-c274-397a-ce57b7db7bff;https://github.com/dandar3/android-google-datatransport-transport-api;;false;;;0"/>
 </provider>
 </psf>
